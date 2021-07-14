@@ -21,3 +21,17 @@ theList = sorted(theList)   # This returns the sorted list in Descending order
 # That is, from largest to smallest
 print("|--------Order goes to default of Ascening if true/false is not specified):---------|")
 print(theList)
+
+
+#                 ------------OUTPUTS------------
+
+#   |-----------------------------------------------------------------------------------|
+#   Hello world 
+#   This lesson shows value sorting in Ascending and Descending order
+#   The Size of the list is:  26 Items
+#   |------------------------The list in Ascending order is:----------------------------|
+#   [0, 1, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 6, 6, 7, 8, 8, 8, 9, 9, 12, 16, 20]
+#   |----------------------The list in Descending order is:-----------------------------|
+#   [20, 16, 12, 9, 9, 8, 8, 8, 7, 6, 6, 5, 5, 4, 4, 4, 3, 3, 3, 2, 2, 2, 2, 2, 1, 0]
+#   |--------Order goes to default of Ascening if true/false is not specified):---------|
+#   [0, 1, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 6, 6, 7, 8, 8, 8, 9, 9, 12, 16, 20]
